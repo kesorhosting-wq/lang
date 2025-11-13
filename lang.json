@@ -36,6 +36,6 @@
     { "code": "vn", "name": "Vietnamese" },
     { "code": "zh", "name": "Chinese (Simplified)" },
     { "code": "zh_tw", "name": "Chinese (Traditional)" },
-    { "code": "km", "name": "Khmer" }
+    { "code": "khm", "name": "Khmer" }
   ]
 }
